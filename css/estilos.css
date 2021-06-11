@@ -1,0 +1,63 @@
+body{
+	background-image: url(../images/fondo.jpg);
+}
+
+nav{
+	margin: 0 10%;
+}
+.menu li{
+	list-style: none;
+	color: #000;
+	display: inline;
+    background-color: #fff;
+    margin: 0 40px;
+    border-radius: 5px;
+    padding: 5px 5px 5px 5px;
+
+}
+
+
+
+
+#encabezado{
+	color:#fff;
+	border-radius: 10px;
+	width: 80%;
+	margin: 10px 10px;
+	padding: 10px 10px 10px 10px;
+	background-image: url(../images/bosque.JPG);
+
+
+}
+
+#piepagina{
+	color: 000;
+	text-align: center;
+	border border-radius: 10px;
+	width: 80%;
+	margin: 30% 10% 10px;
+	height: 150px;
+	background-color: #fff;
+}
+
+#seccion1{
+	color: red;
+	float:left;
+	width: 35%;
+	height: 350px;
+	margin: 0 0 0 10%;
+	background-color: #20f4;
+	padding: 10px 10px 10px 10px;
+}
+
+#seccion2{
+	float:right;
+	width: 35%;
+	height: 350px;
+	margin: 0 10% 0 0;
+	background-color: red;
+	padding: 10px 10px 10px 10px;
+}
+
+
+
